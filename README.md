@@ -2,14 +2,15 @@
 
 A collection of scripts written in Python and JavaScript to export terms and definitions from any Quizlet set. This repository is designed to provide multiple methods for scraping and exporting Quizlet content into a usable format.
 
+I might add other tools to this repo in the future, but currently it's just a quizlet term exporter. 😀
+
 ---
 
 ## Features
 
 - Export terms and definitions from public Quizlet sets.
 - Output in various formats such as JSON, CSV, or plain text.
-- Scripts available in Python and JavaScript.
-- Designed to be easily extendable for other programming languages as needed.
+- Scripts currently available in Python and JavaScript.
 - Support for additional languages or formats can be added upon request.
 
 ---
@@ -17,7 +18,7 @@ A collection of scripts written in Python and JavaScript to export terms and def
 ## File Structure
 
 ```plaintext
-quizlet-terms-exporter/
+Quizlet-MultiTool/
 ├── python/
 │   ├── export_quizlet.py        # Python script for single set export
 │   ├── batch_export.py          # Python script for batch export
@@ -30,6 +31,7 @@ quizlet-terms-exporter/
 │   ├── output_sample.json       # Example output
 │   └── urls.txt                 # Example input for batch processing
 └── README.md                    # Documentation
+```
 
 ---
 
