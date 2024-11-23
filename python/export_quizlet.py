@@ -57,6 +57,8 @@ def main():
     try:
         data = fetch_quizlet_data(quizlet_url, driver)
         print(json.dumps(data, indent=4))
+        with open("../examples/output_sample.json", "w") as f:
+            json.dump(data, f, indent=4)
     finally:
         driver.quit()
 

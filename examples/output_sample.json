@@ -1,0 +1,876 @@
+{
+    "responses": [
+        {
+            "models": {
+                "studiableItem": [
+                    {
+                        "id": 1816031497633794,
+                        "studiableContainerType": 1,
+                        "studiableContainerId": 972822310,
+                        "type": 2,
+                        "rank": 0,
+                        "creatorId": 284898780,
+                        "timestamp": 1731902597,
+                        "lastModified": 1731902950,
+                        "isDeleted": false,
+                        "cardSides": [
+                            {
+                                "sideId": 0,
+                                "label": "word",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "alighted",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=YWxpZ2h0ZWQ&s=MWJhYTcyZTQ",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=YWxpZ2h0ZWQ&s=MWJhYTcyZTQ&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            },
+                            {
+                                "sideId": 1,
+                                "label": "definition",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "landed, settled",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=bGFuZGVkLCBzZXR0bGVk&s=NGVlYzEwYTU",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=bGFuZGVkLCBzZXR0bGVk&s=NGVlYzEwYTU&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1816031497633795,
+                        "studiableContainerType": 1,
+                        "studiableContainerId": 972822310,
+                        "type": 2,
+                        "rank": 1,
+                        "creatorId": 284898780,
+                        "timestamp": 1731902597,
+                        "lastModified": 1731902968,
+                        "isDeleted": false,
+                        "cardSides": [
+                            {
+                                "sideId": 0,
+                                "label": "word",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "muttonchops",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=bXV0dG9uY2hvcHM&s=MzQ1YmJmMzc",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=bXV0dG9uY2hvcHM&s=MzQ1YmJmMzc&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            },
+                            {
+                                "sideId": 1,
+                                "label": "definition",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "side-whiskers that go from the temple to the lower jaws",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=c2lkZS13aGlza2VycyB0aGF0IGdvIGZyb20gdGhlIHRlbXBsZSB0byB0aGUgbG93ZXIgamF3cw&s=OWVkNTQ4MDU",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=c2lkZS13aGlza2VycyB0aGF0IGdvIGZyb20gdGhlIHRlbXBsZSB0byB0aGUgbG93ZXIgamF3cw&s=OWVkNTQ4MDU&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1816031497633796,
+                        "studiableContainerType": 1,
+                        "studiableContainerId": 972822310,
+                        "type": 2,
+                        "rank": 2,
+                        "creatorId": 284898780,
+                        "timestamp": 1731902597,
+                        "lastModified": 1731902983,
+                        "isDeleted": false,
+                        "cardSides": [
+                            {
+                                "sideId": 0,
+                                "label": "word",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "endowed",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=ZW5kb3dlZA&s=MTkzOTk2ZjA",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=ZW5kb3dlZA&s=MTkzOTk2ZjA&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            },
+                            {
+                                "sideId": 1,
+                                "label": "definition",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "furnished with an income",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=ZnVybmlzaGVkIHdpdGggYW4gaW5jb21l&s=ODk2NGY0OGI",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=ZnVybmlzaGVkIHdpdGggYW4gaW5jb21l&s=ODk2NGY0OGI&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1816031497633797,
+                        "studiableContainerType": 1,
+                        "studiableContainerId": 972822310,
+                        "type": 2,
+                        "rank": 3,
+                        "creatorId": 284898780,
+                        "timestamp": 1731902597,
+                        "lastModified": 1731902996,
+                        "isDeleted": false,
+                        "cardSides": [
+                            {
+                                "sideId": 0,
+                                "label": "word",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "stockade",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=c3RvY2thZGU&s=ZDE2ODQ1ZDM",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=c3RvY2thZGU&s=ZDE2ODQ1ZDM&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            },
+                            {
+                                "sideId": 1,
+                                "label": "definition",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "a line of stout posts designed to form a barrier",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=YSBsaW5lIG9mIHN0b3V0IHBvc3RzIGRlc2lnbmVkIHRvIGZvcm0gYSBiYXJyaWVy&s=ZTMzYTQ2NjI",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=YSBsaW5lIG9mIHN0b3V0IHBvc3RzIGRlc2lnbmVkIHRvIGZvcm0gYSBiYXJyaWVy&s=ZTMzYTQ2NjI&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1816031497633798,
+                        "studiableContainerType": 1,
+                        "studiableContainerId": 972822310,
+                        "type": 2,
+                        "rank": 4,
+                        "creatorId": 284898780,
+                        "timestamp": 1731902597,
+                        "lastModified": 1731903011,
+                        "isDeleted": false,
+                        "cardSides": [
+                            {
+                                "sideId": 0,
+                                "label": "word",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "rookery",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=cm9va2VyeQ&s=ZWRjMTBmYmQ",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=cm9va2VyeQ&s=ZWRjMTBmYmQ&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            },
+                            {
+                                "sideId": 1,
+                                "label": "definition",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "a colony of gregariou birds",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=YSBjb2xvbnkgb2YgZ3JlZ2FyaW91IGJpcmRz&s=NTg5Y2QzM2Q",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=YSBjb2xvbnkgb2YgZ3JlZ2FyaW91IGJpcmRz&s=NTg5Y2QzM2Q&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1816031497633799,
+                        "studiableContainerType": 1,
+                        "studiableContainerId": 972822310,
+                        "type": 2,
+                        "rank": 5,
+                        "creatorId": 284898780,
+                        "timestamp": 1731902597,
+                        "lastModified": 1731902735,
+                        "isDeleted": false,
+                        "cardSides": [
+                            {
+                                "sideId": 0,
+                                "label": "word",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "violence",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=dmlvbGVuY2U&s=ZmI4YTM5OTE",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=dmlvbGVuY2U&s=ZmI4YTM5OTE&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            },
+                            {
+                                "sideId": 1,
+                                "label": "definition",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "intense action, force, often destructive",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=aW50ZW5zZSBhY3Rpb24sIGZvcmNlLCBvZnRlbiBkZXN0cnVjdGl2ZQ&s=M2I2ZmEyODQ",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=aW50ZW5zZSBhY3Rpb24sIGZvcmNlLCBvZnRlbiBkZXN0cnVjdGl2ZQ&s=M2I2ZmEyODQ&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1816031497633800,
+                        "studiableContainerType": 1,
+                        "studiableContainerId": 972822310,
+                        "type": 2,
+                        "rank": 6,
+                        "creatorId": 284898780,
+                        "timestamp": 1731902597,
+                        "lastModified": 1731902735,
+                        "isDeleted": false,
+                        "cardSides": [
+                            {
+                                "sideId": 0,
+                                "label": "word",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "recoil",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=cmVjb2ls&s=ZDFjZjcwY2E",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=cmVjb2ls&s=ZDFjZjcwY2E&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            },
+                            {
+                                "sideId": 1,
+                                "label": "definition",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "to shrink back, as in fear or extreme dislike; to spring back, as in firing a gun",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=dG8gc2hyaW5rIGJhY2ssIGFzIGluIGZlYXIgb3IgZXh0cmVtZSBkaXNsaWtlOyB0byBzcHJpbmcgYmFjaywgYXMgaW4gZmlyaW5nIGEgZ3Vu&s=ZjRiZTlkZDk",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=dG8gc2hyaW5rIGJhY2ssIGFzIGluIGZlYXIgb3IgZXh0cmVtZSBkaXNsaWtlOyB0byBzcHJpbmcgYmFjaywgYXMgaW4gZmlyaW5nIGEgZ3Vu&s=ZjRiZTlkZDk&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1816031497633801,
+                        "studiableContainerType": 1,
+                        "studiableContainerId": 972822310,
+                        "type": 2,
+                        "rank": 7,
+                        "creatorId": 284898780,
+                        "timestamp": 1731902597,
+                        "lastModified": 1731902750,
+                        "isDeleted": false,
+                        "cardSides": [
+                            {
+                                "sideId": 0,
+                                "label": "word",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "charade",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=Y2hhcmFkZQ&s=ZDBmM2ZiMWY",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=Y2hhcmFkZQ&s=ZDBmM2ZiMWY&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            },
+                            {
+                                "sideId": 1,
+                                "label": "definition",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "almost transparent pretense",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=YWxtb3N0IHRyYW5zcGFyZW50IHByZXRlbnNl&s=MWMzYzMxZmY",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=YWxtb3N0IHRyYW5zcGFyZW50IHByZXRlbnNl&s=MWMzYzMxZmY&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1816031497633802,
+                        "studiableContainerType": 1,
+                        "studiableContainerId": 972822310,
+                        "type": 2,
+                        "rank": 8,
+                        "creatorId": 284898780,
+                        "timestamp": 1731902597,
+                        "lastModified": 1731902767,
+                        "isDeleted": false,
+                        "cardSides": [
+                            {
+                                "sideId": 0,
+                                "label": "word",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "lubbers",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=bHViYmVycw&s=NGM4MDExMTM",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=bHViYmVycw&s=NGM4MDExMTM&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            },
+                            {
+                                "sideId": 1,
+                                "label": "definition",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "clumsy or unskilled seamen",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=Y2x1bXN5IG9yIHVuc2tpbGxlZCBzZWFtZW4&s=ZTQ3ZGIwOTY",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=Y2x1bXN5IG9yIHVuc2tpbGxlZCBzZWFtZW4&s=ZTQ3ZGIwOTY&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1816031497633803,
+                        "studiableContainerType": 1,
+                        "studiableContainerId": 972822310,
+                        "type": 2,
+                        "rank": 9,
+                        "creatorId": 284898780,
+                        "timestamp": 1731902597,
+                        "lastModified": 1731902808,
+                        "isDeleted": false,
+                        "cardSides": [
+                            {
+                                "sideId": 0,
+                                "label": "word",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "karma",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=a2FybWE&s=M2M4NmM0YzE",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=a2FybWE&s=M2M4NmM0YzE&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            },
+                            {
+                                "sideId": 1,
+                                "label": "definition",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "the sum total of the ethical consequences of a person's action to determine one's specific destiny in one's next existence",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=dGhlIHN1bSB0b3RhbCBvZiB0aGUgZXRoaWNhbCBjb25zZXF1ZW5jZXMgb2YgYSBwZXJzb24ncyBhY3Rpb24gdG8gZGV0ZXJtaW5lIG9uZSdzIHNwZWNpZmljIGRlc3RpbnkgaW4gb25lJ3MgbmV4dCBleGlzdGVuY2U&s=YjFkZTM3MDc",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=dGhlIHN1bSB0b3RhbCBvZiB0aGUgZXRoaWNhbCBjb25zZXF1ZW5jZXMgb2YgYSBwZXJzb24ncyBhY3Rpb24gdG8gZGV0ZXJtaW5lIG9uZSdzIHNwZWNpZmljIGRlc3RpbnkgaW4gb25lJ3MgbmV4dCBleGlzdGVuY2U&s=YjFkZTM3MDc&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1816031497633804,
+                        "studiableContainerType": 1,
+                        "studiableContainerId": 972822310,
+                        "type": 2,
+                        "rank": 10,
+                        "creatorId": 284898780,
+                        "timestamp": 1731902597,
+                        "lastModified": 1731902819,
+                        "isDeleted": false,
+                        "cardSides": [
+                            {
+                                "sideId": 0,
+                                "label": "word",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "emblem",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=ZW1ibGVt&s=ZTJkN2M0MWY",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=ZW1ibGVt&s=ZTJkN2M0MWY&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            },
+                            {
+                                "sideId": 1,
+                                "label": "definition",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "symbol used as an identifying mark",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=c3ltYm9sIHVzZWQgYXMgYW4gaWRlbnRpZnlpbmcgbWFyaw&s=YzNlMjU2ZDY",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=c3ltYm9sIHVzZWQgYXMgYW4gaWRlbnRpZnlpbmcgbWFyaw&s=YzNlMjU2ZDY&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1816031497633805,
+                        "studiableContainerType": 1,
+                        "studiableContainerId": 972822310,
+                        "type": 2,
+                        "rank": 11,
+                        "creatorId": 284898780,
+                        "timestamp": 1731902597,
+                        "lastModified": 1731902834,
+                        "isDeleted": false,
+                        "cardSides": [
+                            {
+                                "sideId": 0,
+                                "label": "word",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "smoldering",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=c21vbGRlcmluZw&s=ZTU3OWVkOGU",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=c21vbGRlcmluZw&s=ZTU3OWVkOGU&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            },
+                            {
+                                "sideId": 1,
+                                "label": "definition",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "wasting away by slow combustion",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=d2FzdGluZyBhd2F5IGJ5IHNsb3cgY29tYnVzdGlvbg&s=NTI1NjI5YTk",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=d2FzdGluZyBhd2F5IGJ5IHNsb3cgY29tYnVzdGlvbg&s=NTI1NjI5YTk&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1816031497633806,
+                        "studiableContainerType": 1,
+                        "studiableContainerId": 972822310,
+                        "type": 2,
+                        "rank": 12,
+                        "creatorId": 284898780,
+                        "timestamp": 1731902597,
+                        "lastModified": 1731902834,
+                        "isDeleted": false,
+                        "cardSides": [
+                            {
+                                "sideId": 0,
+                                "label": "word",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "ruffian",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=cnVmZmlhbg&s=ZWU4MjAzMDQ",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=cnVmZmlhbg&s=ZWU4MjAzMDQ&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            },
+                            {
+                                "sideId": 1,
+                                "label": "definition",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "brutal fellow",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=YnJ1dGFsIGZlbGxvdw&s=NTFiMzQ3ZmU",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=YnJ1dGFsIGZlbGxvdw&s=NTFiMzQ3ZmU&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1816031497633807,
+                        "studiableContainerType": 1,
+                        "studiableContainerId": 972822310,
+                        "type": 2,
+                        "rank": 13,
+                        "creatorId": 284898780,
+                        "timestamp": 1731902597,
+                        "lastModified": 1731902862,
+                        "isDeleted": false,
+                        "cardSides": [
+                            {
+                                "sideId": 0,
+                                "label": "word",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "probation",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=cHJvYmF0aW9u&s=MzdhZjYwYmE",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=cHJvYmF0aW9u&s=MzdhZjYwYmE&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            },
+                            {
+                                "sideId": 1,
+                                "label": "definition",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "when a convicted offender is given freedom after promising good behavior",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=d2hlbiBhIGNvbnZpY3RlZCBvZmZlbmRlciBpcyBnaXZlbiBmcmVlZG9tIGFmdGVyIHByb21pc2luZyBnb29kIGJlaGF2aW9y&s=NTFhMDM5YTA",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=d2hlbiBhIGNvbnZpY3RlZCBvZmZlbmRlciBpcyBnaXZlbiBmcmVlZG9tIGFmdGVyIHByb21pc2luZyBnb29kIGJlaGF2aW9y&s=NTFhMDM5YTA&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1816031497633808,
+                        "studiableContainerType": 1,
+                        "studiableContainerId": 972822310,
+                        "type": 2,
+                        "rank": 14,
+                        "creatorId": 284898780,
+                        "timestamp": 1731902597,
+                        "lastModified": 1731902880,
+                        "isDeleted": false,
+                        "cardSides": [
+                            {
+                                "sideId": 0,
+                                "label": "word",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "gravelly",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=Z3JhdmVsbHk&s=MTVmZDFiMGM",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=Z3JhdmVsbHk&s=MTVmZDFiMGM&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            },
+                            {
+                                "sideId": 1,
+                                "label": "definition",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "harsh and irritation or unpleasant",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=aGFyc2ggYW5kIGlycml0YXRpb24gb3IgdW5wbGVhc2FudA&s=ZDEwNDJiMDQ",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=aGFyc2ggYW5kIGlycml0YXRpb24gb3IgdW5wbGVhc2FudA&s=ZDEwNDJiMDQ&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1816031497633809,
+                        "studiableContainerType": 1,
+                        "studiableContainerId": 972822310,
+                        "type": 2,
+                        "rank": 15,
+                        "creatorId": 284898780,
+                        "timestamp": 1731902597,
+                        "lastModified": 1731902896,
+                        "isDeleted": false,
+                        "cardSides": [
+                            {
+                                "sideId": 0,
+                                "label": "word",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "symbolizes",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=c3ltYm9saXplcw&s=ZGQzZDlmOGI",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=c3ltYm9saXplcw&s=ZGQzZDlmOGI&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            },
+                            {
+                                "sideId": 1,
+                                "label": "definition",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "servers as something that stands for something else",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=c2VydmVycyBhcyBzb21ldGhpbmcgdGhhdCBzdGFuZHMgZm9yIHNvbWV0aGluZyBlbHNl&s=Zjg2NDJhZmM",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=c2VydmVycyBhcyBzb21ldGhpbmcgdGhhdCBzdGFuZHMgZm9yIHNvbWV0aGluZyBlbHNl&s=Zjg2NDJhZmM&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1816031497633810,
+                        "studiableContainerType": 1,
+                        "studiableContainerId": 972822310,
+                        "type": 2,
+                        "rank": 16,
+                        "creatorId": 284898780,
+                        "timestamp": 1731902597,
+                        "lastModified": 1731902896,
+                        "isDeleted": false,
+                        "cardSides": [
+                            {
+                                "sideId": 0,
+                                "label": "word",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "crannies",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=Y3Jhbm5pZXM&s=NTY5ZjU3MGE",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=Y3Jhbm5pZXM&s=NTY5ZjU3MGE&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            },
+                            {
+                                "sideId": 1,
+                                "label": "definition",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "small corners or closed places",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=c21hbGwgY29ybmVycyBvciBjbG9zZWQgcGxhY2Vz&s=NmE5YWY5NjU",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=c21hbGwgY29ybmVycyBvciBjbG9zZWQgcGxhY2Vz&s=NmE5YWY5NjU&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1816031497633811,
+                        "studiableContainerType": 1,
+                        "studiableContainerId": 972822310,
+                        "type": 2,
+                        "rank": 17,
+                        "creatorId": 284898780,
+                        "timestamp": 1731902597,
+                        "lastModified": 1731902912,
+                        "isDeleted": false,
+                        "cardSides": [
+                            {
+                                "sideId": 0,
+                                "label": "word",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "regales",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=cmVnYWxlcw&s=NjU3NGYzZDI",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=cmVnYWxlcw&s=NjU3NGYzZDI&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            },
+                            {
+                                "sideId": 1,
+                                "label": "definition",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "gives amusement to",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=Z2l2ZXMgYW11c2VtZW50IHRv&s=MDRlODQwYmI",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=Z2l2ZXMgYW11c2VtZW50IHRv&s=MDRlODQwYmI&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1816031497633812,
+                        "studiableContainerType": 1,
+                        "studiableContainerId": 972822310,
+                        "type": 2,
+                        "rank": 18,
+                        "creatorId": 284898780,
+                        "timestamp": 1731902597,
+                        "lastModified": 1731902912,
+                        "isDeleted": false,
+                        "cardSides": [
+                            {
+                                "sideId": 0,
+                                "label": "word",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "artificial",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=YXJ0aWZpY2lhbA&s=NjQwOTAyN2Y",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=YXJ0aWZpY2lhbA&s=NjQwOTAyN2Y&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            },
+                            {
+                                "sideId": 1,
+                                "label": "definition",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "simulated",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=c2ltdWxhdGVk&s=MmI2MjI1MDA",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=c2ltdWxhdGVk&s=MmI2MjI1MDA&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1816031497633813,
+                        "studiableContainerType": 1,
+                        "studiableContainerId": 972822310,
+                        "type": 2,
+                        "rank": 19,
+                        "creatorId": 284898780,
+                        "timestamp": 1731902597,
+                        "lastModified": 1731902928,
+                        "isDeleted": false,
+                        "cardSides": [
+                            {
+                                "sideId": 0,
+                                "label": "word",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "keening",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=a2VlbmluZw&s=OTJkNTQ4YzE",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=a2VlbmluZw&s=OTJkNTQ4YzE&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            },
+                            {
+                                "sideId": 1,
+                                "label": "definition",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "suggesting a cry of grief",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=c3VnZ2VzdGluZyBhIGNyeSBvZiBncmllZg&s=YTg5YWFiMDE",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=c3VnZ2VzdGluZyBhIGNyeSBvZiBncmllZg&s=YTg5YWFiMDE&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            "paging": {
+                "total": 20,
+                "page": 1,
+                "perPage": 500,
+                "token": "k9uejwEEe9.EgMvqXRwSFVqQpQWx"
+            }
+        }
+    ]
+}
