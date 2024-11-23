@@ -5,27 +5,36 @@ A checklist of current and future tasks to enhance the Quizlet Terms Exporter pr
 ---
 
 ## Immediate Tasks
-
-- [ ] Improve documentation for `export_quizlet.py` and `exportQuizlet.js` scripts.  
-- [ ] Add error handling for scenarios where a Quizlet set cannot be accessed.  
+- [x] Make the python script.
+- [ ] Make the javascript script.
 - [ ] Create a script to merge multiple exported sets into a single file.  
+- [ ] Command-line and browser-compatible scripts.
+
+
+---
+
+## Planned Features
+
+- [ ] make a search function (kinda useless though)
+- [ ] make a simplify json/whatever else option
+- [ ] make a download audio pronounciations (or not the tts sucks) (make my own tts maybe)
+- [ ] possibly detect if there are multiple pages
+- [ ] Easy to extend for additional export formats or workflows?
 
 ---
 
 ## Future Enhancements
 
-- [ ] Support additional output formats (e.g., XML, Markdown).  
+- [ ] Support additional output formats (e.g., XML, Markdown, CSV).  
 - [ ] Add GUI support for non-developers to use the tool easily.  
-- [ ] Develop a batch processing tool for JavaScript scripts.  
-- [ ] Extend functionality to scrape private sets with user-provided authentication.  
+- [ ] Develop a batch processing tool for multiple sets/urls.  
 
 ---
 
 ## Possible Additions
 
-- [ ] Explore adding other tools like flashcard creators or analyzers to the repository.  
 - [ ] Support for more programming languages (e.g., Ruby, Go) based on community requests.  
-- [ ] Provide API integration for direct access to Quizlet data (if legally permissible).  
+- [ ] Scrape a large amount of quizlet sets (e.g., 1,000+ sets) (i am a webscraping fanatic).
 
 ---
 
