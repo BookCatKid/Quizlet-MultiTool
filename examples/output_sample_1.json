@@ -1,0 +1,231 @@
+{
+    "responses": [
+        {
+            "models": {
+                "studiableItem": [
+                    {
+                        "id": 18922729358,
+                        "studiableContainerType": 1,
+                        "studiableContainerId": 527298863,
+                        "type": 2,
+                        "rank": 0,
+                        "creatorId": 116999125,
+                        "timestamp": 1600428180,
+                        "lastModified": 1600428180,
+                        "isDeleted": false,
+                        "cardSides": [
+                            {
+                                "sideId": 1,
+                                "label": "word",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "Social Studies teacher",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=U29jaWFsIFN0dWRpZXMgdGVhY2hlcg&s=ZDI3ZWQwODI",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=U29jaWFsIFN0dWRpZXMgdGVhY2hlcg&s=ZDI3ZWQwODI&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            },
+                            {
+                                "sideId": 2,
+                                "label": "definition",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "Mr. Powers",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=TXIuIFBvd2Vycw&s=Nzg3ZTE2OTE",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=TXIuIFBvd2Vycw&s=Nzg3ZTE2OTE&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 18922730446,
+                        "studiableContainerType": 1,
+                        "studiableContainerId": 527298863,
+                        "type": 2,
+                        "rank": 1,
+                        "creatorId": 116999125,
+                        "timestamp": 1600428195,
+                        "lastModified": 1600428195,
+                        "isDeleted": false,
+                        "cardSides": [
+                            {
+                                "sideId": 1,
+                                "label": "word",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "Science teacher",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=U2NpZW5jZSB0ZWFjaGVy&s=ZjUyNjMzZDg",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=U2NpZW5jZSB0ZWFjaGVy&s=ZjUyNjMzZDg&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            },
+                            {
+                                "sideId": 2,
+                                "label": "definition",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "Mr. Peterson",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=TXIuIFBldGVyc29u&s=NDI2ZjEwYzI",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=TXIuIFBldGVyc29u&s=NDI2ZjEwYzI&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 18922731026,
+                        "studiableContainerType": 1,
+                        "studiableContainerId": 527298863,
+                        "type": 2,
+                        "rank": 2,
+                        "creatorId": 116999125,
+                        "timestamp": 1600428218,
+                        "lastModified": 1600428218,
+                        "isDeleted": false,
+                        "cardSides": [
+                            {
+                                "sideId": 1,
+                                "label": "word",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "Math teachers",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=TWF0aCB0ZWFjaGVycw&s=NTU1ZTU5YTM",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=TWF0aCB0ZWFjaGVycw&s=NTU1ZTU5YTM&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            },
+                            {
+                                "sideId": 2,
+                                "label": "definition",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "Ms. Cates & Mr. G",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=TXMuIENhdGVzICYgTXIuIEc&s=YTM3OWM5ZDQ",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=TXMuIENhdGVzICYgTXIuIEc&s=YTM3OWM5ZDQ&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 18922732459,
+                        "studiableContainerType": 1,
+                        "studiableContainerId": 527298863,
+                        "type": 2,
+                        "rank": 3,
+                        "creatorId": 116999125,
+                        "timestamp": 1600428231,
+                        "lastModified": 1600428231,
+                        "isDeleted": false,
+                        "cardSides": [
+                            {
+                                "sideId": 1,
+                                "label": "word",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "ELA teachers",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=RUxBIHRlYWNoZXJz&s=MzE0Y2M1ZGM",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=RUxBIHRlYWNoZXJz&s=MzE0Y2M1ZGM&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            },
+                            {
+                                "sideId": 2,
+                                "label": "definition",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "Ms. Fay & Ms. Smith",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=TXMuIEZheSAmIE1zLiBTbWl0aA&s=MTYxNzk3OTk",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=TXMuIEZheSAmIE1zLiBTbWl0aA&s=MTYxNzk3OTk&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 18922734158,
+                        "studiableContainerType": 1,
+                        "studiableContainerId": 527298863,
+                        "type": 2,
+                        "rank": 4,
+                        "creatorId": 116999125,
+                        "timestamp": 1600428231,
+                        "lastModified": 1600428231,
+                        "isDeleted": false,
+                        "cardSides": [
+                            {
+                                "sideId": 1,
+                                "label": "word",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "Principal",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=UHJpbmNpcGFs&s=ZDI2Yjc2M2Y",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=UHJpbmNpcGFs&s=ZDI2Yjc2M2Y&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            },
+                            {
+                                "sideId": 2,
+                                "label": "definition",
+                                "media": [
+                                    {
+                                        "type": 1,
+                                        "plainText": "Mr. Scott",
+                                        "languageCode": "en",
+                                        "ttsUrl": "/v1/tts/en.mp3?v=2&b=TXIuIFNjb3R0&s=NmM1ZWI3Zjc",
+                                        "ttsSlowUrl": "/v1/tts/en.mp3?v=2&b=TXIuIFNjb3R0&s=NmM1ZWI3Zjc&speed=70",
+                                        "richText": null
+                                    }
+                                ],
+                                "distractors": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            "paging": {
+                "total": 5,
+                "page": 1,
+                "perPage": 500,
+                "token": "K3yhqTG5Eu.VCFnSApedANJWVfuV"
+            }
+        }
+    ]
+}

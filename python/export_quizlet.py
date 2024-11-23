@@ -51,13 +51,13 @@ def main():
     Main function to fetch and print the Quizlet data.
     """
     quizlet_url = (
-        "972822310"
+        "527298863"
     )
     driver = setup_webdriver()
     try:
         data = fetch_quizlet_data(quizlet_url, driver)
         print(json.dumps(data, indent=4))
-        with open("../examples/output_sample.json", "w") as f:
+        with open("../examples/output_sample_1.json", "w") as f:
             json.dump(data, f, indent=4)
     finally:
         driver.quit()

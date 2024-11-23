@@ -28,7 +28,8 @@ Quizlet-MultiTool/
 │   ├── exportQuizlet.js         # Puppeteer-based scraping script
 │   └── package.json             # JavaScript dependencies
 ├── examples/
-│   ├── output_sample.json       # Example output (from [Spelling Bee](https://quizlet.com/257331262/spelling-bee-flash-cards/))
+│   ├── output_sample_1.json       # Example output (from [Example Set](https://quizlet.com/527298863/example-set-flash-cards))
+│   ├── output_sample_2.json       # Example output (from [Spelling Bee](https://quizlet.com/257331262/spelling-bee-flash-cards/))
 │   └── urls.txt                 # Example input for batch processing
 └── README.md                    # Documentation
 ```
